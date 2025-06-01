@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Palak+Ardeshna!;&color=58a6ff" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Palak+Ardeshna!;" />
 </h1>
 
 <div align="center">
@@ -43,11 +43,26 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,vue,angular,tailwind,mui,bootstrap" />
+  <h4>Frontend</h4>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" title="HTML5" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" title="CSS3" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" title="JavaScript" /></a>
+  <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" title="React" /></a>
   <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,javascript,typescript,firebase,mongodb,mysql,postgresql" />
+  
+  <h4>Backend</h4>
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" /></a>
+  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" title="Express.js" /></a>
   <br/>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,figma,git,github,docker,aws" />
+  
+  <h4>Database</h4>
+  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" /></a>
+  <br/>
+  
+  <h4>Tools</h4>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" title="Git" /></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" title="GitHub" /></a>
+  <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" title="Figma" /></a>
 </div>
 
 <div align="center">
