@@ -1,129 +1,173 @@
-# 👨‍💻 Palak Ardeshna
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Palak+Ardeshna!;&color=58a6ff" />
+</h1>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack-Developer-blue?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Full Stack Developer"/>
-  <img src="https://img.shields.io/badge/React-Expert-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Expert"/>
-  <img src="https://img.shields.io/badge/Node.js-Expert-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Expert"/>
-  <img src="https://img.shields.io/badge/CRM-Specialist-FF6B6B?style=for-the-badge&logo=salesforce&logoColor=white" alt="CRM Specialist"/>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;UI%2FUX+Designer;Mobile+App+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation"/>
+  <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Divider">
 </div>
 
-## 🧙‍♂️ About Me
-
-Full Stack Developer with expertise in building scalable CRM systems. I specialize in creating robust frontend interfaces with React and powerful backend APIs with Node.js. My focus is on delivering high-quality, maintainable code that solves real business problems. I love turning coffee ☕ into code and problems into solutions! 
-
-## 🚀 Skills
-
-### 🎨 Frontend
-- **⚛️ React.js** - Building interactive UIs with modern React (Hooks, Context API, Suspense)
-- **🔄 Redux** - State management with Redux Toolkit & Redux Persist
-- **💅 UI Libraries** - Ant Design, Styled Components, Framer Motion animations
-- **📊 Data Visualization** - Recharts, Ant Design Plots, Interactive dashboards
-- **📝 Forms & Validation** - Yup schema validation, React Hook Form
-- **🖱️ Drag & Drop** - DND Kit implementation for intuitive interfaces
-- **📄 Document Generation** - PDF generation with jsPDF, html2canvas, html2pdf
-- **🔌 Real-time Features** - Socket.io integration, live updates
-- **📱 Responsive Design** - Mobile-first approach, adaptive layouts
-- **🎭 Component Architecture** - Reusable component design patterns
-
-### 🛠️ Backend
-- **🟢 Node.js** - Server-side JavaScript with Express.js
-- **🔗 API Design** - RESTful architecture, GraphQL knowledge
-- **🔐 Security** - JWT authentication, bcrypt password hashing
-- **📁 File Handling** - AWS S3 integration, Multer for uploads
-- **📧 Email Services** - Nodemailer, SendGrid for transactional emails
-- **📊 Data Processing** - Excel processing with XLSX, CSV handling
-- **📃 PDF Generation** - PDFKit, Puppeteer for document creation
-- **🔄 Real-time Communication** - Socket.io for bidirectional events
-- **✅ Validation** - Joi schema validation, input sanitization
-- **⏱️ Scheduling** - Node-cron for scheduled tasks and automation
-- **🔍 Error Handling** - Comprehensive error tracking and logging
-
-### 💾 Database
-- **🗄️ MySQL** - Complex SQL queries, database optimization
-- **🔄 Sequelize ORM** - Models, migrations, associations
-- **📋 Schema Design** - Efficient database architecture
-- **🔍 Query Optimization** - Performance tuning, indexing
-- **🔒 Data Security** - Secure storage practices
-- **🔄 Transactions** - ACID compliance for data integrity
-- **📊 Data Analysis** - SQL reporting capabilities
-
-### 🔧 DevOps & Tools
-- **🐙 Version Control** - Git/GitHub workflow mastery
-- **🏗️ Build Tools** - Vite, Webpack configuration
-- **🧪 API Testing** - Postman collections, automated testing
-- **🐳 Containerization** - Docker knowledge, container orchestration
-- **☁️ Deployment** - Cloud deployment (AWS, Heroku)
-- **🔄 CI/CD** - Continuous integration practices
-- **🔍 Debugging** - Advanced debugging techniques
-- **📱 Cross-platform** - Development for multiple environments
-
-## 🔥 Projects
-
-### 💼 CRM System (Grewox)
-A comprehensive Customer Relationship Management system with separate frontend and backend repositories.
+<h3 align="center">A Passionate Full Stack Developer from India 🇮🇳</h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.io"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="600">
 </div>
 
-#### 🖥️ Frontend Features
-- 🚀 Modern React application built with Vite
-- 📊 Responsive dashboard with interactive data visualization
-- 🖱️ Drag-and-drop interfaces for intuitive user experience
-- 📄 PDF and document generation capabilities
-- 🔔 Real-time notifications and updates
-- 🔄 Redux state management with persistence
-- 📱 Responsive design for all devices
-- 🎨 Beautiful UI with Ant Design and custom components
-- 🔐 Secure authentication flow
-- 🌐 Multi-language support potential
+<br/>
 
-#### ⚙️ Backend Features
-- 🔗 RESTful API architecture with Express.js
-- 🗄️ MySQL database integration with Sequelize ORM
-- 🔐 Authentication and authorization system
-- 📁 File upload functionality with AWS S3
-- 📧 Email notification services with templates
-- ⏱️ Scheduled tasks and automation
-- 🔌 Real-time communication with Socket.io
-- 🔍 Advanced error handling and logging
-- 🛡️ Security best practices implementation
-- 📊 Data processing and reporting capabilities
-
-## 📫 Connect With Me
+<!-- 3D Text Animation -->
+<p align="center">
+  <a href="https://github.com/palak-ardeshna">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!" alt="Welcome to my GitHub Profile!" />
+  </a>
+</p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/palak-ardeshna-920478226/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/Hacke0011"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://instagram.com/palak_ardeshna"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  
+  🔭 I'm currently working on **CRM Systems & Web Applications**
+  
+  🌱 I'm currently learning **React Native, AWS, and DevOps**
+  
+  💬 Ask me about **React, Node.js, Express, MongoDB... or anything [here](https://github.com/palak-ardeshna/palak-ardeshna/issues)**
+  
+  ⚡ Fun fact **The first computer bug was an actual real-life bug 🐛**
+  
 </div>
 
-## 📊 GitHub Stats
-
+<!-- Social Media Badges -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=palak-ardeshna&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palak-ardeshna&layout=compact&theme=radical" alt="Top Languages" />
+  <a href="mailto:support@grewox.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/palak-ardeshna-920478226" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://instagram.com/palak_ardeshna" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://twitter.com/palak_ardeshna" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hacke0011&theme=darkhub&column=7" alt="GitHub Trophies" />
+  <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Divider">
 </div>
 
----
+<!-- 3D Tech Stack Animation -->
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+
+<!-- Animated Tech Stack Icons -->
+<div align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100">
+  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100">
+</div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hacke0011&color=blueviolet" alt="Profile Views" />
+    <img src="https://skillicons.dev/icons?i=react,redux,nextjs,vue,angular,tailwind,mui,bootstrap" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,javascript,typescript,firebase,mongodb,mysql,postgresql" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=html,css,sass,figma,git,github,docker,aws" />
+</div>
+
+<!-- 3D Animation -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500">
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Divider">
+</div>
+
+<!-- GitHub Stats with 3D Effects -->
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+
+<!-- 3D Stats Card -->
+<div align="center">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=palak-ardeshna&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=palak-ardeshna&theme=react&border_radius=10" alt="streak stats"/>
+  <br/>
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palak-ardeshna&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<!-- Activity Graph -->
+<div align="center">
   <br>
-  <i>⭐️ From <a href="https://github.com/Hacke0011">Palak Ardeshna</a></i>
-  <br>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>Let's connect and build something amazing together!</em>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img alt="Palak Ardeshna's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=palak-ardeshna&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+  </a>
 </div>
+
+<div align="center">
+  <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Divider">
+</div>
+
+<!-- Projects with 3D Effects -->
+<h2 align="center">🏆 My Projects 🏆</h2>
+<br/>
+
+<!-- Animated Project Cards -->
+<div align="center">
+  <a href="https://github.com/palak-ardeshna/Lets-grow-more-intern-task-1">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=palak-ardeshna&repo=Lets-grow-more-intern-task-1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="Lets-grow-more-intern-task-1">
+  </a>
+  <a href="https://github.com/palak-ardeshna/Lets-grow-more-intern-task-2">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=palak-ardeshna&repo=Lets-grow-more-intern-task-2&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="Lets-grow-more-intern-task-2">
+  </a>
+  <a href="https://github.com/palak-ardeshna/Lets-grow-more-intern-task-3">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=palak-ardeshna&repo=Lets-grow-more-intern-task-3&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="Lets-grow-more-intern-task-3">
+  </a>
+  <a href="https://github.com/palak-ardeshna/Lets-grow-more-intern-task-4">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=palak-ardeshna&repo=Lets-grow-more-intern-task-4&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="Lets-grow-more-intern-task-4">
+  </a>
+</div>
+
+<!-- 3D Animation -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Divider">
+</div>
+
+<!-- Animated Typing Effect -->
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;Send+me+a+message+on+LinkedIn!;I'm+always+happy+to+collaborate+:)">
+</h3>
+
+<!-- Visitor Counter with Animation -->
+<div align="center">
+  <img src="https://profile-counter.glitch.me/palak-ardeshna/count.svg" />
+</div>
+
+<!-- 3D Footer Animation -->
+<h3 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</h3>
+
+<!-- 3D Contribution Calendar -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/palak-ardeshna/palak-ardeshna/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%">
+</div>
+
+<!-- Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/palak-ardeshna/palak-ardeshna/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/palak-ardeshna/palak-ardeshna/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/palak-ardeshna/palak-ardeshna/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<!-- Animated Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
