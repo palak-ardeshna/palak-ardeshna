@@ -57,6 +57,7 @@
   
   <h4>Database</h4>
   <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" /></a>
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" title="MySQL" /></a>
   <br/>
   
   <h4>Tools</h4>
